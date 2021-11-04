@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farasmart!
-- 👀 I’m interested in all development.
-- 🌱 I’m currently learning JS.
+- 👀 I’m interested in all development things.
+- 🌱 I’m currently learning js/nodejs/express/react.
 - 💞️ I’m looking to collaborate on all things for programming.
 - 📫 How to reach me?! 
 - 
